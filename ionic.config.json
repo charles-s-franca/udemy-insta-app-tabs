@@ -1,0 +1,8 @@
+{
+  "name": "instaapp",
+  "app_id": "226ebf66",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
